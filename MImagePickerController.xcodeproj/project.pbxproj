@@ -10,6 +10,18 @@
 		0469AC2D2153A5660091E6DE /* MImagePickerController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0469AC232153A5640091E6DE /* MImagePickerController.framework */; };
 		0469AC322153A5670091E6DE /* MImagePickerControllerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0469AC312153A5670091E6DE /* MImagePickerControllerTests.m */; };
 		0469AC342153A5670091E6DE /* MImagePickerController.h in Headers */ = {isa = PBXBuildFile; fileRef = 0469AC262153A5640091E6DE /* MImagePickerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0469AC4A2153A5C50091E6DE /* IMGCollectionViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 0469AC3E2153A5C50091E6DE /* IMGCollectionViewCell.h */; };
+		0469AC4B2153A5C50091E6DE /* IMGCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0469AC3F2153A5C50091E6DE /* IMGCollectionViewCell.m */; };
+		0469AC4C2153A5C50091E6DE /* IMGCollectionViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 0469AC402153A5C50091E6DE /* IMGCollectionViewController.h */; };
+		0469AC4D2153A5C50091E6DE /* IMGCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0469AC412153A5C50091E6DE /* IMGCollectionViewController.m */; };
+		0469AC4E2153A5C50091E6DE /* IMGModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 0469AC422153A5C50091E6DE /* IMGModel.h */; };
+		0469AC4F2153A5C50091E6DE /* IMGModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0469AC432153A5C50091E6DE /* IMGModel.m */; };
+		0469AC502153A5C50091E6DE /* ToolsView.h in Headers */ = {isa = PBXBuildFile; fileRef = 0469AC442153A5C50091E6DE /* ToolsView.h */; };
+		0469AC512153A5C50091E6DE /* ToolsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0469AC452153A5C50091E6DE /* ToolsView.m */; };
+		0469AC522153A5C50091E6DE /* wzx@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0469AC462153A5C50091E6DE /* wzx@2x.png */; };
+		0469AC532153A5C50091E6DE /* wzx@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0469AC472153A5C50091E6DE /* wzx@3x.png */; };
+		0469AC542153A5C50091E6DE /* zx@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0469AC482153A5C50091E6DE /* zx@2x.png */; };
+		0469AC552153A5C50091E6DE /* zx@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0469AC492153A5C50091E6DE /* zx@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +41,18 @@
 		0469AC2C2153A5660091E6DE /* MImagePickerControllerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MImagePickerControllerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0469AC312153A5670091E6DE /* MImagePickerControllerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MImagePickerControllerTests.m; sourceTree = "<group>"; };
 		0469AC332153A5670091E6DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0469AC3E2153A5C50091E6DE /* IMGCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMGCollectionViewCell.h; sourceTree = "<group>"; };
+		0469AC3F2153A5C50091E6DE /* IMGCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMGCollectionViewCell.m; sourceTree = "<group>"; };
+		0469AC402153A5C50091E6DE /* IMGCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMGCollectionViewController.h; sourceTree = "<group>"; };
+		0469AC412153A5C50091E6DE /* IMGCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMGCollectionViewController.m; sourceTree = "<group>"; };
+		0469AC422153A5C50091E6DE /* IMGModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMGModel.h; sourceTree = "<group>"; };
+		0469AC432153A5C50091E6DE /* IMGModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMGModel.m; sourceTree = "<group>"; };
+		0469AC442153A5C50091E6DE /* ToolsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ToolsView.h; sourceTree = "<group>"; };
+		0469AC452153A5C50091E6DE /* ToolsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ToolsView.m; sourceTree = "<group>"; };
+		0469AC462153A5C50091E6DE /* wzx@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wzx@2x.png"; sourceTree = "<group>"; };
+		0469AC472153A5C50091E6DE /* wzx@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wzx@3x.png"; sourceTree = "<group>"; };
+		0469AC482153A5C50091E6DE /* zx@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zx@2x.png"; sourceTree = "<group>"; };
+		0469AC492153A5C50091E6DE /* zx@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zx@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				0469AC262153A5640091E6DE /* MImagePickerController.h */,
+				0469AC3D2153A5C50091E6DE /* Photo */,
 				0469AC272153A5650091E6DE /* Info.plist */,
 			);
 			path = MImagePickerController;
@@ -86,6 +111,25 @@
 			path = MImagePickerControllerTests;
 			sourceTree = "<group>";
 		};
+		0469AC3D2153A5C50091E6DE /* Photo */ = {
+			isa = PBXGroup;
+			children = (
+				0469AC3E2153A5C50091E6DE /* IMGCollectionViewCell.h */,
+				0469AC3F2153A5C50091E6DE /* IMGCollectionViewCell.m */,
+				0469AC402153A5C50091E6DE /* IMGCollectionViewController.h */,
+				0469AC412153A5C50091E6DE /* IMGCollectionViewController.m */,
+				0469AC422153A5C50091E6DE /* IMGModel.h */,
+				0469AC432153A5C50091E6DE /* IMGModel.m */,
+				0469AC442153A5C50091E6DE /* ToolsView.h */,
+				0469AC452153A5C50091E6DE /* ToolsView.m */,
+				0469AC462153A5C50091E6DE /* wzx@2x.png */,
+				0469AC472153A5C50091E6DE /* wzx@3x.png */,
+				0469AC482153A5C50091E6DE /* zx@2x.png */,
+				0469AC492153A5C50091E6DE /* zx@3x.png */,
+			);
+			path = Photo;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -94,6 +138,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				0469AC342153A5670091E6DE /* MImagePickerController.h in Headers */,
+				0469AC502153A5C50091E6DE /* ToolsView.h in Headers */,
+				0469AC4C2153A5C50091E6DE /* IMGCollectionViewController.h in Headers */,
+				0469AC4E2153A5C50091E6DE /* IMGModel.h in Headers */,
+				0469AC4A2153A5C50091E6DE /* IMGCollectionViewCell.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +224,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0469AC542153A5C50091E6DE /* zx@2x.png in Resources */,
+				0469AC552153A5C50091E6DE /* zx@3x.png in Resources */,
+				0469AC522153A5C50091E6DE /* wzx@2x.png in Resources */,
+				0469AC532153A5C50091E6DE /* wzx@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -193,6 +245,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0469AC4F2153A5C50091E6DE /* IMGModel.m in Sources */,
+				0469AC4D2153A5C50091E6DE /* IMGCollectionViewController.m in Sources */,
+				0469AC512153A5C50091E6DE /* ToolsView.m in Sources */,
+				0469AC4B2153A5C50091E6DE /* IMGCollectionViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
