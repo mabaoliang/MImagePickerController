@@ -405,6 +405,8 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LINK_WITH_STANDARD_LIBRARIES = NO;
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = mbl.MImagePickerController;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
@@ -430,6 +432,8 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				LINK_WITH_STANDARD_LIBRARIES = NO;
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = mbl.MImagePickerController;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;

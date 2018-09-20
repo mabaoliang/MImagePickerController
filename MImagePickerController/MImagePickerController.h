@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+#import"IMGCollectionViewController"
 //! Project version number for MImagePickerController.
 FOUNDATION_EXPORT double MImagePickerControllerVersionNumber;
 
